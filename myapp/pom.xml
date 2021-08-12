@@ -34,10 +34,6 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-			        <fork>true</fork>
-			        <executable>/home/amit/Downloads/java/jdk1.8.0_281/bin/javac</executable>
-			    </configuration>
 			</plugin>
 		</plugins>
 	</build>
